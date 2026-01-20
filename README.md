@@ -1,4 +1,4 @@
-# A basic web app created using React to scrape web articles from Barstool
+# A basic web app created using React to scrape web articles from Barstool Sports
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
